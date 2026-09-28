@@ -1,0 +1,6 @@
+{
+  "name": "Apex Market Terminal",
+  "description": "High-density real-time financial market terminal tracking global indices, US stocks, crypto, commodities, forex, and earnings calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
